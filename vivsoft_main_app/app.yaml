@@ -4,8 +4,8 @@ type: project
 version: 0.6
 icon: app.png
 catalog:
-  category: TACR System
-  vendor: VifSoft.io
+  category: VivSoft
+  vendor: VivSoft.io
   vendor_url: https://vivsoft.io
   status: draft
   version: 0.3
